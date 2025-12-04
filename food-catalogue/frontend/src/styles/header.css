@@ -1,0 +1,12 @@
+/* Bug: Alignment issues */
+header {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+nav a {
+  margin: 0 10px;
+  font-size: 1.2em;
+}

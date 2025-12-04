@@ -1,0 +1,18 @@
+/* Bug: Inconsistent styles */
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  background-color: green;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
